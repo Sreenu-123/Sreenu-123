@@ -1,25 +1,28 @@
-## # 👋 Hi, I'm Sreenish Hari
+### 👋 Hi, I'm **Sreenish Hari**
 
-Computer Science Engineering student passionate about building modern mobile applications with Flutter and exploring AI-powered solutions.
+💻 **Computer Science Engineering Student**
+🚀 Passionate about building modern mobile applications with **Flutter** and exploring **AI-powered solutions**.
 
-### Tech Stack & Currently Learning
+## 🛠️ Tech Stack & Currently Learning
 
-* Flutter & Dart (Advanced)
-* Firebase
-* Python
-* Git & GitHub
-* REST APIs
-* Backend Development
-* AI Integration
-* Clean Architecture
+* 💙 **Flutter & Dart (Advanced)**
+* 🔥 **Firebase**
+* 🐍 **Python**
+* 🌿 **Git & GitHub**
+* 🌐 **REST APIs**
+* ⚙️ **Backend Development**
+* 🤖 **AI Integration**
+* 🏗️ **Clean Architecture**
 
-### Goals
+## 🎯 Goals
 
-* Build impactful products.
-* Contribute to open-source projects.
-* Continuously learn and improve as a developer.
+* 🚀 Build impactful products
+* 🌍 Contribute to open-source projects
+* 📚 Continuously learn and improve as a developer
 
-> *Code. Learn. Build. Repeat.*
+---
+
+> **✨ Code. Learn. Build. Repeat. ✨**
 
 
 <!--
