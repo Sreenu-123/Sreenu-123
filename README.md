@@ -1,4 +1,26 @@
-## Hi there 👋
+## # 👋 Hi, I'm Sreenish Hari
+
+Computer Science Engineering student passionate about building modern mobile applications with Flutter and exploring AI-powered solutions.
+
+### Tech Stack & Currently Learning
+
+* Flutter & Dart (Advanced)
+* Firebase
+* Python
+* Git & GitHub
+* REST APIs
+* Backend Development
+* AI Integration
+* Clean Architecture
+
+### Goals
+
+* Build impactful products.
+* Contribute to open-source projects.
+* Continuously learn and improve as a developer.
+
+> *Code. Learn. Build. Repeat.*
+
 
 <!--
 **Sreenu-123/Sreenu-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
