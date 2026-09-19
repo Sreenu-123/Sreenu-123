@@ -6,7 +6,7 @@
 ## 🛠️ Tech Stack & Currently Learning
 
 * 💙 **Flutter & Dart (Advanced)**
-* 🔥 **Firebase**
+* 🔥 **FastAPI**
 * 🐍 **Python**
 * 🌿 **Git & GitHub**
 * 🌐 **REST APIs**
