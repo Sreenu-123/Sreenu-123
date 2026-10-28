@@ -41,7 +41,7 @@ An AI-powered horse-riding training application built with Flutter.
 
 ## 🤝 Connect With Me
 
-- 📸 Instagram: [@sreenu._mwon](https://www.instagram.com/sree.eenu__/)
+- 📸 Instagram: [@sree.eenu__](https://www.instagram.com/sree.eenu__/)
 
 ---
 
