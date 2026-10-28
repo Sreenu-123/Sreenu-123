@@ -1,41 +1,48 @@
-### 👋 Hi, I'm **Sreenish Hari**
+# 👋 Hi, I'm Sreenish Hari
 
-💻 **Computer Science Engineering Student**
-🚀 Passionate about building modern mobile applications with **Flutter** and exploring **AI-powered solutions**.
+🎓 Computer Science Engineering Student | 🚀 Developer | 🤖 AI Enthusiast
+
+Passionate about building modern web and mobile applications, developing scalable backends, and exploring AI-powered solutions.
 
 ## 🛠️ Tech Stack & Currently Learning
 
-* 💙 **Flutter & Dart (Advanced)**
-* 🔥 **FastAPI**
-* 🐍 **Python**
-* 🌿 **Git & GitHub**
-* 🌐 **REST APIs**
-* ⚙️ **Backend Development**
-* 🤖 **AI Integration**
-* 🏗️ **Clean Architecture**
+### 💻 Frontend Development
+- ⚛️ React
+- 🟨 JavaScript
+- 🌐 HTML5 & CSS3
+
+### 📱 Mobile Development
+- 💙 Flutter & Dart
+
+### ⚙️ Backend Development
+- 🔥 FastAPI
+- 🐍 Python
+- 🐘 PostgreSQL
+- 🌐 REST APIs
+
+### 🧰 Tools & Concepts
+- 🌿 Git & GitHub
+- 🏗️ Clean Architecture
+- 🤖 AI Integration
+
+## 🚀 Featured Projects
+
+### 💪 FitNovaX
+A gamified fitness application built with Flutter, FastAPI, and PostgreSQL.
+
+### 🐎 ASHWA
+An AI-powered horse-riding training application built with Flutter.
 
 ## 🎯 Goals
 
-* 🚀 Build impactful products
-* 🌍 Contribute to open-source projects
-* 📚 Continuously learn and improve as a developer
+- 🚀 Build impactful products
+- 🌍 Contribute to open-source projects
+- 📚 Continuously learn and improve as a developer
+
+## 🤝 Connect With Me
+
+- 📸 Instagram: [@sreenu._mwon](https://www.instagram.com/sreenu._.mwon/)
 
 ---
 
-> **✨ Code. Learn. Build. Repeat. ✨**
-
-
-<!--
-**Sreenu-123/Sreenu-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Code. Learn. Build. Repeat.** ✨
